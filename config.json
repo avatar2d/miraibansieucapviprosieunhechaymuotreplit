@@ -1,0 +1,28 @@
+{
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "selfListen": false,
+    "autoClean": false,
+    "commandDisabled": [
+        "banneranime.js"
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "",
+    "PREFIX": "!",
+    "ADMINBOT": [
+        "idadmin"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "version": "1.2.8",
+    "log": {
+        "enable": true
+    },

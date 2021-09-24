@@ -4,9 +4,7 @@
     "allowInbox": true,
     "selfListen": false,
     "autoClean": false,
-    "commandDisabled": [
-        "banneranime.js"
-    ],
+    "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
     "PASSWORD": "",
@@ -14,7 +12,8 @@
     "BOTNAME": "",
     "PREFIX": "!",
     "ADMINBOT": [
-        "idadmin"
+        "100051462404052",
+        "100057107798129"
     ],
     "DATABASE": {
         "sqlite": {
@@ -26,3 +25,8 @@
     "log": {
         "enable": true
     },
+    "menu": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 30
+    }
+}
